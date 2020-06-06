@@ -174,17 +174,24 @@ text-align: center;
    .feature-para1{
      text-align: center;
      position: relative;
-     left: 130px;
+
+     width: 30%;
+     left: 300px;
    }
    .feature-para2{
      text-align: center;
      position: relative;
-     left: 130px;
+     width: 30%;
+     left: 300px;
+
    }
    .feature-para3{
      text-align: center;
      position: relative;
-     left: 130px;
+     width: 30%;
+     left: 300px;
+
+
    }
    .feature-head{
      position: relative;
