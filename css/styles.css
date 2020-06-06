@@ -191,7 +191,11 @@ text-align: center;
      width: 30%;
      left: 300px;
 
+   }
 
+   .feature-img{
+     position: relative;
+     right: 50px;
    }
    .feature-head{
      position: relative;
